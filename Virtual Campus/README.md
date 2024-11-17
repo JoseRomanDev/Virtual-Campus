@@ -1,6 +1,3 @@
-## Intengrantes: <br>
-Bruno bernal Salaberria, Sergio Guzmán Cañete, José Manuel Guerrero Aragón, José Manuel Román Navarro, Juan Miguel Barbancho
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
